@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Why The Template, Adam?
+
+The create-react-app boilerplate initially provided is messy and contains unnecessary images, etc... I created a react app and reformatted it to my preferences. This makes it easy for me to fork off for new react projects in the future. Feel freee to use it and modify it in anyway you see fit with your needs!
 
 ## Available Scripts
 
